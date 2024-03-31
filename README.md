@@ -6,5 +6,6 @@ Configurarção, no campo IP(192.168.xx.xx), entre no seu computador no campo pe
 Com o endereço do modem digite no browser, de preferencia (Microsoft Edge), logo retornará a tela inicial de seu modem, agora digite a senha para acessa-lo, que encontra-se logo abaixo dele em uma etiqueta.
 Após acessa-lo procure, os campos reservas de (IP) configurar o (MAC e IP) fixo, fora da faixa do DHCP.
 teste a consexção com o cabo conectado e a placa alimentada com tensão.
-com o comando do endereço do (IP) que você fixou no seu modem e reprogramado no código do projeto (S.C.D.D) verifica o retorno. se retornar com os caracteres você obteve sucesso na instalação.
+Com o comando do endereço do (IP) que você fixou no seu modem e reprogramado no código do projeto (S.C.D.D) verifique o retorno. se retornar com os caracteres você obteve sucesso na instalação.
+Altere as entradas ou os valores aritméticos conforme sua necessidade.
 Pericles Silva
