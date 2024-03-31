@@ -5,7 +5,7 @@ Para execurar o código em Hardware vc precisara de: (Um cabo USB, impressora, u
 Configurarção, no campo IP(192.168.xx.xx), entre no seu computador no campo pesquisa (Search), com o comando (CMD), vai aparecer uma tela do prompot de comandos, digite (IPconfig/all), vai aparecer uma linha com o endereço do (DHCP SERVER: 192.168.XX.XX) anote que esse IP, refere-se ao seu modem. 
 Com o endereço do modem digite no browser, de preferencia (Microsoft Edge), logo retornará a tela inicial de seu modem, agora digite a senha para acessa-lo, que encontra-se logo abaixo dele em uma etiqueta.
 Após acessa-lo procure, os campos reservas de (IP) configurar o (MAC e IP) fixo, fora da faixa do DHCP.
-teste a consexção com o cabo conectado e a placa alimentada com tensão.
+teste a conexão com o cabo conectado, e a sua placa alimentada com tensão, ou simplesmente conectado com cabo USB. (A corrente é abaixo dos 500mA. Suporta tranquilamente).
 Com o comando do endereço do (IP) que você fixou no seu modem e reprogramado no código do projeto (S.C.D.D) verifique o retorno. se retornar com os caracteres você obteve sucesso na instalação.
 Altere as entradas ou os valores aritméticos conforme sua necessidade.
 Pericles Silva
